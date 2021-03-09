@@ -6,7 +6,7 @@ This integration will add the HTD Lync12 into Home Assistant.
 
 1. Download the 4 files (`__init__.py`, `htd_lync12.py`, `media_player.py`, `manifest.json`) from this repo and place them into your `custom_components/htd_lync12` folder.
 2. Update your configuration.yaml to include the following (NOTE: Only host is required).
-
+```yaml
 htd_lync12:
   - host: 192.168.1.133
     zones:
@@ -42,7 +42,7 @@ htd_lync12:
       - Airplay
       - Alexa
       - MP3 Player
-
+```
 3. Restart Home Assistant
 
 
