@@ -47,7 +47,7 @@ htd_lync12:
 
 
 ## ChangeLog
-- MArch 9, 2021 - Intial Release
+- March 9, 2021 - Intial Release
 
 
 ## Code Credits
